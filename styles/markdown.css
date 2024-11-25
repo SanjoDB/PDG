@@ -1,0 +1,17 @@
+.markdown-content {
+  max-height: 500px; /* Altura máxima del cuerpo del artículo */
+  overflow-y: auto; /* Habilitar desbordamiento vertical cuando sea necesario */
+}
+
+.markdown-content ul {
+  list-style-type: disc; /* Establece viñetas */
+  margin-left: 20px; /* Espacio a la izquierda de las viñetas */
+}
+
+.markdown-content li {
+  margin-bottom: 5px; /* Espacio entre elementos de la lista */
+}
+
+.markdown-content p {
+  margin-bottom: 10px; /* Espacio entre párrafos */
+}

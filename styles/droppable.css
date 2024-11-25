@@ -1,0 +1,29 @@
+.options-container {
+  text-align: center;
+  margin-top: 20px;
+  padding: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  border: 1px solid grey;
+  width: 500px;
+}
+
+.items-container {
+  text-align: center;
+}
+
+.item-container {
+  padding: 5px;
+}
+
+.dropzone {
+  min-width: 100px;
+  width: auto;
+  border: 1px solid grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
